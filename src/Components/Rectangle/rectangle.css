@@ -1,0 +1,39 @@
+.rec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 100px;
+    gap: 70px;
+}
+
+.rec .con p {
+
+    width: 400px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-align: justify;
+    color: #808080;
+
+
+
+}
+
+.rec .con h4 {
+
+    
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 36px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: #000000;
+
+
+}

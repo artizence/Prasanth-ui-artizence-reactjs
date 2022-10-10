@@ -1,0 +1,41 @@
+.low {
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 19px 0px;
+    gap: 22px;
+    background: rgba(203, 255, 244, 0.3);
+}
+
+.low .con1 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 66px;
+    gap: 10px;
+    width: 505px;
+    height: 57px;
+
+}
+
+.con1 .dash {
+    width: 53px;
+    height: 5px;
+    background: #5D5FEF;
+    border-radius: 12px;
+
+}
+
+
+/* con2 is not coded */
+
+
+/* @media screen and (max-width: 400px){
+    .low{
+        width: 425px;
+    }
+} */

@@ -1,0 +1,109 @@
+.elon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 66px;
+    gap: 10px;
+    height: 300px;
+    
+
+    /* border: 2px solid red; */
+}
+
+.first1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.first1 .dash {
+  
+  width: 53px;
+  height: 6px;
+  background: #EF5DA8;
+  border-radius: 12px;
+}
+
+/* .first1 .some {
+    width: 196px;
+    height: 37px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 21px;
+    line-height: 36px;
+    align-items: center;
+    color: #000000;
+
+} */
+
+.first2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  
+    padding: 10px;
+    /* margin-right: 450px; */
+    /* width: 616px;
+    height: 184px; 
+     */
+}
+
+.first2 .images .dash2{
+    width: 5px;
+    height: 175px;      
+    background: #7879F1;
+}
+.first2 .content{
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   
+}
+
+.first2 .content .des {
+ 
+/* height: 77px; */
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: justify;
+color: #000000;
+margin-left: 30px;
+}
+.sign p{
+    
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height, or 128% */
+    
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    
+    color: #000000;
+    
+}
+
+/* @media screen and (max-width: 400px){
+    .elon{
+        width: 424px;
+        display: flex;
+    }
+  .first2{
+        width: 425px;    
+    }
+
+} */

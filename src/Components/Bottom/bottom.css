@@ -1,0 +1,40 @@
+.outer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: space-around;
+    padding: 10px;
+    margin: 100px;
+    height: 325px;
+    gap: 10px;
+}
+
+.border {
+    width: 1192px;
+    height: 325px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-around;
+    padding-left: 20px;
+    background: #878787;
+    border-radius: 20px;
+}
+
+
+
+.btn {
+    background: #5D9BFF;
+    border-radius: 10px;
+}
+.txt .clr {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    color: white;
+   
+}
+
